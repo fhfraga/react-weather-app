@@ -1,0 +1,18 @@
+export const weatherIcons = {
+  Thunderstorm: "weather-lightning",
+  Drizzle: "weather-rainy",
+  Rain: "weather-pouring",
+  Snow: "weather-snowy-heavy",
+  Mist: "weather-fog",
+  Smoke: "weather-fog",
+  Haze: "weather-hazy",
+  Dust: "weather-hazy",
+  Fog: "weather-fog",
+  Sand: "weather-hazy",
+  Ash: "weather-hazy",
+  Squall: "weather-windy",
+  Tornado: "weather-tornado",
+  Clear: "weather-sunny",
+  ClearNight: "weather-night",
+  Clouds: "weather-cloudy",
+};
