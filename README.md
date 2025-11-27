@@ -15,10 +15,13 @@ O app permite buscar o clima atual de qualquer cidade do mundo, exibindo:
 
 ## Prints do projeto rodando
 
-![Maricá](image/imagem_1.png)
-![Tóqui](image/imagem_2.png)
-![Nova Iorque](image/imagem_3.png)
-![Quebec](image/imagem_4.png)
+<p align="center">
+  <img src="image/imagem_1.jpg" width="150"/>
+  <img src="image/imagem_2.jpg" width="150"/>
+  <img src="image/imagem_3.jpg" width="150"/>
+  <img src="image/imagem_4.jpg" width="150"/>
+</p>
+
 
 ---
 
