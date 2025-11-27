@@ -16,10 +16,10 @@ O app permite buscar o clima atual de qualquer cidade do mundo, exibindo:
 ## Prints do projeto rodando
 
 <p align="center">
-  <img src="image/imagem_1.jpg" width="150"/>
-  <img src="image/imagem_2.jpg" width="150"/>
-  <img src="image/imagem_3.jpg" width="150"/>
-  <img src="image/imagem_4.jpg" width="150"/>
+  <img src="image/imagem_1.jpg" width="200"/>
+  <img src="image/imagem_2.jpg" width="200"/>
+  <img src="image/imagem_3.jpg" width="200"/>
+  <img src="image/imagem_4.jpg" width="200"/>
 </p>
 
 
